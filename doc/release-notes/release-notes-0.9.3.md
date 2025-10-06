@@ -99,3 +99,5 @@ Thanks to everyone who contributed to this release:
 - Zak Wilcox
 
 As well as everyone that helped translating on [Transifex](https://www.transifex.com/projects/p/bitcoin/).
+
+<!-- Auto-update: 2025-10-06T15:25:56.148604 -->
